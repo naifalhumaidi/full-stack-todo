@@ -1,6 +1,6 @@
 # Full-Stack Todo Application
 
-A modern, real-time todo application built with **Next.js**, **TypeScript**, **ESlint**, **Shadcn**, **Tailwind CSS**, **Clerk**, **MongoDB**, and **Prisma**. This application provides a seamless user experience, allowing users to add, edit, and delete tasks without refreshing the page.
+A modern, real-time todo application built with **Next.js**, **TypeScript**, **ESlint**, **Shadcn**, **Tailwind CSS**, **Clerk**, **MongoDB** and **Prisma**. This application provides a seamless user experience, allowing users to add, edit, and delete tasks without refreshing the page.
 
 ## Features
 
